@@ -38,7 +38,7 @@ based on the optimal pareto front.
 - **notebooks/**: Jupyter notebooks for exploratory analysis and model development.
 
 ## Final Submission
-- Our final submission uses boosting models like XGBoost and CatBoost.
+- Our final submission uses boosting models like XGBoost and CadBoost.
 - Although Model Agnostic Meta Learning and Reptile Meta learning provided decent results, vanila boosting models had better results at the end.
 - Necessary readme and details are present in the final_submission folder.
 ## Acknowledgments
